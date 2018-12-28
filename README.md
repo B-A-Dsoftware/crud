@@ -1,2 +1,1 @@
-- docker-compose up --build -d
-- curl localhost:8000
+This is a template for a CRUD microservice.
